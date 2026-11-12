@@ -92,8 +92,9 @@ button {
 }
 ```
 ## OUTPUT
-<img width="918" height="466" alt="image" src="https://github.com/user-attachments/assets/b13d470a-36ae-4d14-8714-ebb117ee9d2c" />
-<img width="919" height="443" alt="image" src="https://github.com/user-attachments/assets/16ca8ba1-443b-4560-888a-d717a14a49c0" />
+<img width="918" height="316" alt="Screenshot 2026-11-13 005555" src="https://github.com/user-attachments/assets/547d64dc-eb63-4b7e-974c-85831864cea7" />
+<img width="891" height="318" alt="Screenshot 2026-11-13 005608" src="https://github.com/user-attachments/assets/a6bc8655-a5d3-4b73-8936-4781208c892e" />
+
 
 ## RESULT
 ### Thus, a Student Registration Form was successfully created using React. The form input valueswere managed using the useState() Hook, user input was handled using the onChange event, and form submission was handled using the onSubmit event.
